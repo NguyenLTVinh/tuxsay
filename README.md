@@ -47,7 +47,7 @@ All the ASCII characters used in this program is taken from emojicombos.com/meme
 
 
 ```
-________________________________________
+  ________________________________________
   | "We all know Linux is great...it     |
   | does infinite loops in 5 seconds."   |
   |                    - Linus Torvalds  |
