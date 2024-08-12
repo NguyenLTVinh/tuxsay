@@ -20,10 +20,10 @@ tuxsay [--help | --fortune | <message>] [<character>]
     Displays the help message with usage instructions.
 
 --fortune:
-    Displays a random quote from the quotes.txt file in a speech bubble with the specified ASCII art character.
+    Displays a random Linus Torvalds quote from the quotes.txt file in a speech bubble with the specified ASCII art character.
 
 \<message>:
-    The message to be displayed inside the speech bubble.
+    The message to be displayed inside the speech bubble. Make sure to use double quotes for messages with white spaces: "This is a message".
 
 \<character>:
     The name of the ASCII art file to use (without the .txt extension). If not specified, the default character (tux) is used. The characters that come with this program are tux, shrek, pikachu, crying, chad.
